@@ -56,7 +56,7 @@
 
 ### 方式一：装 APK
 
-1. 去 [Releases](https://github.com/Superco01-Ti/ImaGate/releases) 下载最新版 APK[1]
+1. 去 [Releases](https://github.com/Superco01-Ti/ImaGate/releases) 下载最新版 APK
 2. 安装后在 LSPosed 里激活模块
 3. 勾选作用目标 App `com.tencent.ima`，重启该 App
 
