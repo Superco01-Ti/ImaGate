@@ -1,0 +1,22 @@
+{
+  "app_name": "QwenGate",
+  "package_name": "com.master.qwengate",
+  "description": "LSPosed 模块：Hook Qwen App 凭证自动保鲜 + 内置 OpenAI 兼容本地网关",
+  "min_sdk": 26,
+  "target_sdk": 34,
+  "language": "Kotlin",
+  "ui": "原生 View",
+  "files": [
+    "settings.gradle.kts",
+    "build.gradle.kts",
+    "gradle.properties",
+    "app/build.gradle.kts",
+    "app/src/main/AndroidManifest.xml",
+    "app/src/main/assets/xposed_init",
+    "app/src/main/res/values/arrays.xml",
+    "app/src/main/java/com/master/qwengate/QwenHook.kt",
+    "app/src/main/java/com/master/qwengate/GatewayServer.kt",
+    "app/src/main/java/com/master/qwengate/GateService.kt",
+    "app/src/main/java/com/master/qwengate/MainActivity.kt"
+  ]
+}
